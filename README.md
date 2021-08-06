@@ -6,9 +6,7 @@ The <b>IPA Tracker Support Center</b> is a public repository of information and 
 
 The <b>IPA Tracker</b> includes two main Modules (i.e., SPECIFICATION and MONITORING) for documenting community-specific SMART Strategies, with additoinal functionality allowing authorized users to download selected data for REPORTING of various implementation metrics. 
 
-<b>To Make a request for support, like here:</b>
-
-[add survey link here]
+<b>To Make a request for support, please click here:</b> [add survey link here]
 
 <b>Link to Current User's Guide</b>
 
