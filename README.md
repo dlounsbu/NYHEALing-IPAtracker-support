@@ -18,11 +18,11 @@ https://docs.google.com/document/d/1b3FaqXSABnDeUXjfAjp_EgYpyJt3JOtyqv0K0Yy4Skc/
 
 https://www.ipatracking.com/
 
-# IPA Tracker Support Team
+<b>IPA Tracker Support Team</b>
 
-| **Name** | **e-mail** | **Brief Description**
+| **Name** | **e-mail** | **Affiliation**
 | --- | --- | --- |
-| lzim/teampsd | [mtl.how/teampsd](https://mtl.how/teampsd) | You are here! Public repository for maintaining resources and project management trackers for all TeamPSD members. |
+| Donrie Purcell, PhD, Senior Project Coordinator | donrie.purcell@einsteinmed.org | Epidemiology & Population Health, Albert Einstein College of Medicine|
 | lzim/mtl | [mtl.how](https://mtl.how) | Public repository containing all work related to the *Modeling to Learn* national quality improvement initiative, including model files, learner See guides, facilitator Say guides, and cheatsheets for each of the sessions of the *MTL Blue* and *MTL Red* programs. |
 | teampsd/sim | [insert link]() | Public repository for managing simulation models and Epicenter simulation user interface code. |
 | lzim/research | [mtl.how/research](https://mtl.how/research) | Private repository for TeamPSD research code. |
