@@ -1,4 +1,4 @@
-# NYHEALing IPA Tracker Support Center
+# NY HEALing IPA Tracker Support Center
 
 The <b>HEALing Communities Study</b> is an initiative launched in 2019 by the National Institutes of Health (NIH). The goal of the study is to test the immediate impact of an integrated set of evidence-based interventions across healthcare, behavioral health, justice, and other community-based settings to prevent and treat opioid misuse and opioid use disorder within highly affected communities.
 
