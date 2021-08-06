@@ -6,9 +6,6 @@ The <b>IPA Tracker Support Center</b> is a public repository of information and 
 
 The <b>IPA Tracker</b> includes two main Modules (i.e., SPECIFICATION and MONITORING) for documenting community-specific SMART Strategies, with additoinal functionality allowing authorized users to download selected data for REPORTING of various implementation metrics. 
 
-<b>NOTE:</b> This site is provided for authorized use only. In accordance with legal requirements, this system may be monitored to ensure that use is authorized, for management of systems, to facilitate protection against unauthorized access, and to verify security procedures, survivability and operational security. During monitoring, information may be examined, recorded, copied and used for authorized purposes. All information placed on or sent over this system may be monitored. Use of this computer system, authorized or unauthorized, constitutes consent to monitoring of this system. Unauthorized use or access may subject you to criminal prosecution. Evidence of unauthorized use or access collected during monitoring may be used for administrative, criminal or adverse action. Use of this system constitutes consent to monitoring for these purposes.
-
-
 <b>Link to Current User's Guide</b>
 
 https://docs.google.com/document/d/1b3FaqXSABnDeUXjfAjp_EgYpyJt3JOtyqv0K0Yy4Skc/edit?usp=sharing
@@ -28,3 +25,4 @@ https://www.ipatracking.com/
 | Anika Buch, Intern, Princeton Internships in Civic Service | ambuch@princeton.edu | Princeton University, Class of 2024 |
 | David W. Lounsbury, PhD, Associate Professor/Co-Investigator | david.lounsbury@einsteinmed.org | Epidemology & Population Health, Albert Einstein College of Medicine |
     
+<b>NOTE:</b> This site is provided for authorized use only. In accordance with legal requirements, this system may be monitored to ensure that use is authorized, for management of systems, to facilitate protection against unauthorized access, and to verify security procedures, survivability and operational security. During monitoring, information may be examined, recorded, copied and used for authorized purposes. All information placed on or sent over this system may be monitored. Use of this computer system, authorized or unauthorized, constitutes consent to monitoring of this system. Unauthorized use or access may subject you to criminal prosecution. Evidence of unauthorized use or access collected during monitoring may be used for administrative, criminal or adverse action. Use of this system constitutes consent to monitoring for these purposes.
