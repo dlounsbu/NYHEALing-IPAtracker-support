@@ -4,7 +4,7 @@ The <b>HEALing Communities Study (HCS)</b> is an initiative launched in 2019 by 
 
 The <b>IPA Tracker Support Center</b> provides information and support in using a secure, cloud-based tool designed to support participating community partners, researchers, and study staff engaged in designing and managing community-specific Implementation Plan Agreements (IPAs) for the NY HCS site. 
 
-The <b>IPA Tracker</b> includes two main Modules (i.e., SPECIFICATION and MONITORING) for documenting community-specific SMART Strategies, with additoinal functionality allowing authorized users to download selected data for REPORTING of various implementation metrics. 
+The <b>IPA Tracker</b> includes two main Modules (SPECIFICATION and MONITORING) for documenting community-specific SMART Strategies, with additoinal functionality allowing authorized users to download selected data for REPORTING of various implementation metrics. 
 
 <b>To make a request for support, please click here:</b> https://einsteinmed.co1.qualtrics.com/jfe/form/SV_4TvKdfrpwnbgBrE
 
