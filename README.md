@@ -22,11 +22,9 @@ https://www.ipatracking.com/
 
 | **Name** | **e-mail** | **Affiliation**
 | --- | --- | --- |
-| Donrie Purcell, PhD, Senior Project Coordinator | donrie.purcell@einsteinmed.org | Epidemiology & Population Health, Albert Einstein College of Medicine|
-| lzim/mtl | [mtl.how](https://mtl.how) | Public repository containing all work related to the *Modeling to Learn* national quality improvement initiative, including model files, learner See guides, facilitator Say guides, and cheatsheets for each of the sessions of the *MTL Blue* and *MTL Red* programs. |
-| teampsd/sim | [insert link]() | Public repository for managing simulation models and Epicenter simulation user interface code. |
-| lzim/research | [mtl.how/research](https://mtl.how/research) | Private repository for TeamPSD research code. |
-| lzim/mtl_team_tracker | [mtl.how/team_tracker](https://mtl.how/team_tracker) | Private repository for *Modeling to Learn* facilitators to access all resources needed for facilitation in one place and to track team-specific progress and information. |
-| epmo/mtl_research | [https://github.ec.va.gov/EPMO/mtl_research](https://github.ec.va.gov/EPMO/mtl_research) | Private repository in the VA GitHub Enterprise account for the TeamPSD research pipeline. |
-| epmo/mtl_operations | [https://github.ec.va.gov/EPMO/mtl_operations](https://github.ec.va.gov/EPMO/mtl_operations) | Private repository in the VA GitHub Enterprise account for the TeamPSD operations pipeline. |
+| Donrie Purcell, PhD, Senior Project Coordinator | donrie.purcell@einsteinmed.org | Epidemiology & Population Health, Albert Einstein College of Medicine |
+| Nick Bove, MPH, Technical Assistance Coordinator | nicholas.bove@einsteinmed.org | Epidemiology & Population Health, Albert Einstein College of Medicine |
+| Mahdi Najafabadi, PhD, Post-Doctoral Fellow, Informatics and Data Science  | Mahdi.Najafabadi@sph.cuny.edu  | Center for Systems and Community Design, CUNY Graduate School of Public Health |
+| Anika Buch, Intern, Princeton Internships in Civic Service | ambuch@princeton.edu | Princeton University, Class of 2022 |
+| David W. Lounsbury, PhD, Associate Professor/Co-Investigator | david.lounsbury@einsteinmed.org | Epidemology & Population Health, Albert Einstein College of Medicine |
     
