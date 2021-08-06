@@ -7,6 +7,7 @@ The <b>IPA Tracker Support Center</b> is a public repository of information and 
 The <b>IPA Tracker</b> includes two main Modules (i.e., SPECIFICATION and MONITORING) for documenting community-specific SMART Strategies, with additoinal functionality allowing authorized users to download selected data for REPORTING of various implementation metrics. 
 
 <b>To make a request for support, please click here:</b> https://einsteinmed.co1.qualtrics.com/jfe/form/SV_4TvKdfrpwnbgBrE
+
 <b>Link to Current User's Guide</b>
 
 https://docs.google.com/document/d/1b3FaqXSABnDeUXjfAjp_EgYpyJt3JOtyqv0K0Yy4Skc/edit?usp=sharing
