@@ -25,6 +25,6 @@ https://www.ipatracking.com/
 | Donrie Purcell, PhD, Senior Project Coordinator | donrie.purcell@einsteinmed.org | Epidemiology & Population Health, Albert Einstein College of Medicine |
 | Nick Bove, MPH, Technical Assistance Coordinator | nicholas.bove@einsteinmed.org | Epidemiology & Population Health, Albert Einstein College of Medicine |
 | Mahdi Najafabadi, PhD, Post-Doctoral Fellow, Informatics and Data Science  | mahdi.najafabadi@sph.cuny.edu  | Center for Systems and Community Design, CUNY Graduate School of Public Health |
-| Anika Buch, Intern, Princeton Internships in Civic Service | ambuch@princeton.edu | Princeton University, Class of 2022 |
+| Anika Buch, Intern, Princeton Internships in Civic Service | ambuch@princeton.edu | Princeton University, Class of 2024 |
 | David W. Lounsbury, PhD, Associate Professor/Co-Investigator | david.lounsbury@einsteinmed.org | Epidemology & Population Health, Albert Einstein College of Medicine |
     
