@@ -1,8 +1,8 @@
-# NY HEALing IPA Tracker Support Center
+# NY HEALing IPA Tracker Support Team
 
 The <b>HEALing Communities Study (HCS)</b> is an initiative launched in 2019 by the National Institutes of Health (NIH) in four sites (NY, KY, OH, MA). The goal of the study is to test the immediate impact of an integrated set of evidence-based interventions across healthcare, behavioral health, justice, and other community-based settings to prevent and treat opioid misuse and opioid use disorder within highly affected communities.
 
-The <b>IPA Tracker Support Center</b> provides information and technical assistance to participating community partners, researchers, and study staff who are piloting the use of the <b>IPA Tracker</b>, a secure, cloud-based tool designed to inform and documment their efforts to implement community-driven SMART Strategies. The <b>IPA Tracker</b> also provides authorized users the option to download selected data for reporting on various implementation process and outcomes metrics. 
+The <b>IPA Tracker Support Team</b> provides information and technical assistance to participating community partners, researchers, and study staff who are piloting the use of the <b>IPA Tracker</b>, a secure, cloud-based tool designed to inform and documment their efforts to implement community-driven SMART Strategies. The <b>IPA Tracker</b> also provides authorized users the option to download selected data for reporting on various implementation process and outcomes metrics. 
 
 <b>To make a request for support, please click here:</b> https://einsteinmed.co1.qualtrics.com/jfe/form/SV_4TvKdfrpwnbgBrE
 
