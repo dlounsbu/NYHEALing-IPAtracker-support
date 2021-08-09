@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1b3FaqXSABnDeUXjfAjp_EgYpyJt3JOtyqv0K0Yy4Skc/
 
 https://www.ipatracking.com/
 
-
+#### Attention: The IPA Tracker website will be offline for server and networking equipment maintenance on Thursday (8/12) after business hours. Duration of downtime is expected to be less than 3 hours. 
 
 ### IPA Tracker Support Team
 
