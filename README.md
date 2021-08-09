@@ -8,11 +8,11 @@ The <b>IPA Tracker Support Team</b> provides information and technical assistanc
 
 https://einsteinmed.co1.qualtrics.com/jfe/form/SV_4TvKdfrpwnbgBrE
 
-## Link to Current User's Guide
+### Link to Current User's Guide
 
 https://docs.google.com/document/d/1b3FaqXSABnDeUXjfAjp_EgYpyJt3JOtyqv0K0Yy4Skc/edit?usp=sharing
 
-## Link to IPA Tracker
+### Link to IPA Tracker
 
 https://www.ipatracking.com/
 
