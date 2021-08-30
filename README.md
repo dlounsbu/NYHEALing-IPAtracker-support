@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1b3FaqXSABnDeUXjfAjp_EgYpyJt3JOtyqv0K0Yy4Skc/
 
 https://www.ipatracking.com/
 
-### NOTE: IPA Tracker will be off-line for approximately 2hours (3pm-5pm EST) on TUESDAY, AUG 31, 2021. We apologize for any inconvenience. 
+### <i>NOTE: IPA Tracker will be off-line for approximately 2hours (3pm-5pm EST) on TUESDAY, AUG 31, 2021. We apologize for any inconvenience.</i> 
 
 ### IPA Tracker Support Team
 
